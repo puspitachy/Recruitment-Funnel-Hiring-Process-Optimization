@@ -1,0 +1,421 @@
+requisition_id,department_id,job_title,job_level,location,recruiter_id,hiring_manager,headcount,salary_min,salary_max,opened_date,closed_date,status
+REQ-1001,D04,Lead Sales Development Rep,Lead,New York,R08,HM-045,1,116000,148000,2024-01-03,2024-02-18,Filled
+REQ-1002,D06,Senior Customer Success Manager,Senior,New York,R06,HM-063,1,63000,80000,2024-01-04,2024-02-14,Filled
+REQ-1003,D02,Senior Data Analyst,Senior,Chicago,R04,HM-021,1,137000,175000,2024-01-04,2024-03-01,Filled
+REQ-1004,D04,Junior Sales Development Rep,Entry,Austin,R07,HM-044,1,54000,69000,2024-01-04,2024-01-30,Filled
+REQ-1005,D08,Talent Partner,Mid,Austin,R09,HM-083,2,70000,90000,2024-01-05,2024-02-19,Filled
+REQ-1006,D08,HR Generalist,Mid,Remote,R09,HM-085,1,70000,90000,2024-01-08,2024-02-24,Filled
+REQ-1007,D01,QA Engineer,Mid,Remote,R04,HM-013,1,119000,151000,2024-01-08,2024-02-25,Filled
+REQ-1008,D01,Software Engineer,Mid,Chicago,R02,HM-015,3,119000,151000,2024-01-09,2024-07-07,Cancelled
+REQ-1009,D01,Senior Frontend Engineer,Senior,New York,R01,HM-011,1,154000,197000,2024-01-10,2024-02-29,Filled
+REQ-1010,D04,Senior Account Executive,Senior,Austin,R06,HM-045,1,97000,124000,2024-01-11,2024-07-09,Cancelled
+REQ-1011,D01,Backend Engineer,Mid,Remote,R03,HM-011,1,119000,151000,2024-01-12,2024-07-10,Cancelled
+REQ-1012,D04,Senior Sales Development Rep,Senior,Chicago,R05,HM-044,1,97000,124000,2024-01-15,2024-02-07,Filled
+REQ-1013,D05,Junior Content Strategist,Entry,New York,R08,HM-054,1,57000,73000,2024-01-15,2024-02-16,Filled
+REQ-1014,D02,Senior Data Analyst,Senior,Remote,R02,HM-024,1,137000,175000,2024-01-16,2024-07-14,Cancelled
+REQ-1015,D06,Lead Customer Success Manager,Lead,New York,R08,HM-064,1,75000,95000,2024-01-23,2024-07-21,Cancelled
+REQ-1016,D05,Junior Content Strategist,Entry,Austin,R05,HM-052,1,57000,73000,2024-01-23,2024-03-02,Filled
+REQ-1017,D01,DevOps Engineer,Mid,Remote,R01,HM-015,1,119000,151000,2024-01-23,2024-02-14,Filled
+REQ-1018,D04,Account Manager,Mid,New York,R08,HM-041,3,75000,95000,2024-01-24,2024-07-22,Cancelled
+REQ-1019,D02,Data Engineer,Mid,Austin,R02,HM-021,1,106000,134000,2024-01-25,2024-03-21,Filled
+REQ-1020,D04,Account Manager,Mid,Remote,R06,HM-042,2,75000,95000,2024-01-26,2024-07-24,Cancelled
+REQ-1021,D02,Lead Data Analyst,Lead,Remote,R04,HM-023,1,164000,208000,2024-01-29,2024-03-22,Filled
+REQ-1022,D06,Senior Support Team Lead,Senior,Remote,R05,HM-063,1,63000,80000,2024-01-30,2024-03-06,Filled
+REQ-1023,D04,Junior Account Executive,Entry,New York,R05,HM-045,2,54000,69000,2024-02-01,2024-07-30,Cancelled
+REQ-1024,D01,Junior DevOps Engineer,Entry,New York,R02,HM-015,2,86000,109000,2024-02-05,2024-04-03,Filled
+REQ-1025,D04,Junior Sales Development Rep,Entry,Remote,R07,HM-045,1,54000,69000,2024-02-05,2024-03-08,Filled
+REQ-1026,D06,Junior Support Team Lead,Entry,Chicago,R08,HM-061,3,35000,44000,2024-02-06,2024-03-21,Filled
+REQ-1027,D02,Data Scientist,Mid,New York,R03,HM-024,1,106000,134000,2024-02-09,2024-03-16,Filled
+REQ-1028,D01,Junior DevOps Engineer,Entry,Austin,R04,HM-015,1,86000,109000,2024-02-09,2024-03-10,Filled
+REQ-1029,D03,Product Designer,Mid,New York,R02,HM-033,1,114000,146000,2024-02-11,2024-03-16,Filled
+REQ-1030,D09,Project Coordinator,Mid,Chicago,R10,HM-095,1,66000,84000,2024-02-16,2024-03-18,Filled
+REQ-1031,D09,Procurement Specialist,Mid,Remote,R09,HM-091,3,66000,84000,2024-02-16,2024-03-28,Filled
+REQ-1032,D06,Senior Support Team Lead,Senior,Remote,R07,HM-065,1,63000,80000,2024-02-19,2024-03-24,Filled
+REQ-1033,D08,Senior HR Generalist,Senior,Austin,R10,HM-082,1,92000,116000,2024-02-20,2024-04-05,Filled
+REQ-1034,D07,Junior FP&A Manager,Entry,Remote,R09,HM-075,2,60000,77000,2024-02-22,2024-03-29,Filled
+REQ-1035,D03,Product Manager,Mid,Remote,R03,HM-032,1,114000,146000,2024-02-22,2024-03-21,Filled
+REQ-1036,D01,Senior QA Engineer,Senior,Chicago,R02,HM-015,1,154000,197000,2024-02-26,2024-05-30,Filled
+REQ-1037,D05,Growth Marketer,Mid,Austin,R07,HM-053,1,79000,101000,2024-02-26,2024-03-22,Filled
+REQ-1038,D04,Senior Sales Development Rep,Senior,Remote,R08,HM-044,1,97000,124000,2024-02-28,2024-03-28,Filled
+REQ-1039,D03,Lead UX Researcher,Lead,Remote,R04,HM-032,1,177000,226000,2024-02-29,2024-04-05,Filled
+REQ-1040,D01,Senior DevOps Engineer,Senior,Chicago,R02,HM-012,1,154000,197000,2024-02-29,2024-08-27,Cancelled
+REQ-1041,D03,UX Researcher,Mid,Remote,R01,HM-035,3,114000,146000,2024-03-02,2024-04-18,Filled
+REQ-1042,D04,Sales Development Rep,Mid,Austin,R07,HM-041,2,75000,95000,2024-03-07,2024-09-03,Cancelled
+REQ-1043,D02,Junior Data Analyst,Entry,Austin,R03,HM-025,1,76000,97000,2024-03-08,2024-05-05,Filled
+REQ-1044,D02,Senior Data Engineer,Senior,New York,R04,HM-024,1,137000,175000,2024-03-08,2024-04-03,Filled
+REQ-1045,D04,Senior Sales Development Rep,Senior,New York,R06,HM-044,1,97000,124000,2024-03-12,2024-04-22,Filled
+REQ-1046,D07,Junior FP&A Manager,Entry,Remote,R09,HM-073,1,60000,77000,2024-03-21,2024-04-16,Filled
+REQ-1047,D05,Junior Marketing Specialist,Entry,Remote,R08,HM-051,1,57000,73000,2024-03-22,2024-04-21,Filled
+REQ-1048,D02,Senior Data Scientist,Senior,Remote,R01,HM-021,1,137000,175000,2024-03-25,2024-04-23,Filled
+REQ-1049,D02,Data Scientist,Mid,New York,R01,HM-021,2,106000,134000,2024-03-25,2024-09-21,Cancelled
+REQ-1050,D04,Account Executive,Mid,Remote,R05,HM-045,1,75000,95000,2024-03-26,2024-04-19,Filled
+REQ-1051,D01,Senior QA Engineer,Senior,Chicago,R01,HM-014,1,154000,197000,2024-03-27,2024-06-30,Filled
+REQ-1052,D01,DevOps Engineer,Mid,Remote,R03,HM-015,1,119000,151000,2024-03-27,2024-09-23,Cancelled
+REQ-1053,D04,Junior Account Manager,Entry,Remote,R08,HM-043,2,54000,69000,2024-03-27,2024-05-30,Filled
+REQ-1054,D01,Software Engineer,Mid,New York,R04,HM-011,1,119000,151000,2024-03-27,2024-09-23,Cancelled
+REQ-1055,D04,Sales Development Rep,Mid,New York,R08,HM-044,1,75000,95000,2024-03-28,2024-04-30,Filled
+REQ-1056,D03,Product Manager,Mid,New York,R02,HM-035,2,114000,146000,2024-03-29,2024-09-25,Cancelled
+REQ-1057,D06,Senior Customer Success Manager,Senior,Chicago,R06,HM-064,1,63000,80000,2024-03-29,2024-04-30,Filled
+REQ-1058,D06,Junior Customer Success Manager,Entry,New York,R06,HM-064,2,35000,44000,2024-03-29,2024-04-26,Filled
+REQ-1059,D06,Senior Support Specialist,Senior,New York,R06,HM-065,1,63000,80000,2024-04-01,2024-05-09,Filled
+REQ-1060,D06,Junior Support Specialist,Entry,New York,R07,HM-063,1,35000,44000,2024-04-01,2024-05-13,Filled
+REQ-1061,D03,Lead UX Researcher,Lead,Remote,R04,HM-033,1,177000,226000,2024-04-02,2024-09-29,Cancelled
+REQ-1062,D06,Support Team Lead,Mid,Austin,R05,HM-061,2,48000,62000,2024-04-02,2024-09-29,Cancelled
+REQ-1063,D02,Senior BI Developer,Senior,Remote,R03,HM-021,1,137000,175000,2024-04-02,2024-05-11,Filled
+REQ-1064,D05,Senior Marketing Specialist,Senior,Remote,R06,HM-054,1,103000,131000,2024-04-03,2024-06-13,Filled
+REQ-1065,D02,Senior BI Developer,Senior,Chicago,R04,HM-025,1,137000,175000,2024-04-04,2024-10-01,Cancelled
+REQ-1066,D04,Junior Sales Development Rep,Entry,Austin,R06,HM-044,1,54000,69000,2024-04-05,2024-05-18,Filled
+REQ-1067,D01,DevOps Engineer,Mid,New York,R04,HM-012,1,119000,151000,2024-04-05,2024-06-26,Filled
+REQ-1068,D02,Lead Data Analyst,Lead,New York,R02,HM-021,1,164000,208000,2024-04-05,2024-10-02,Cancelled
+REQ-1069,D09,Lead Project Coordinator,Lead,Remote,R10,HM-095,1,102000,130000,2024-04-09,2024-06-04,Filled
+REQ-1070,D01,Junior Software Engineer,Entry,Remote,R04,HM-013,1,86000,109000,2024-04-09,2024-05-12,Filled
+REQ-1071,D06,Customer Success Manager,Mid,Chicago,R06,HM-062,2,48000,62000,2024-04-11,2024-05-25,Filled
+REQ-1072,D05,Lead Content Strategist,Lead,New York,R08,HM-051,1,123000,156000,2024-04-16,2024-10-13,Cancelled
+REQ-1073,D06,Customer Success Manager,Mid,Remote,R07,HM-064,2,48000,62000,2024-04-16,2024-05-31,Filled
+REQ-1074,D04,Lead Account Manager,Lead,New York,R06,HM-044,1,116000,148000,2024-04-17,2024-05-26,Filled
+REQ-1075,D05,Growth Marketer,Mid,Chicago,R05,HM-053,1,79000,101000,2024-04-24,2024-06-12,Filled
+REQ-1076,D01,Software Engineer,Mid,Remote,R02,HM-013,1,119000,151000,2024-04-25,2024-06-27,Filled
+REQ-1077,D01,DevOps Engineer,Mid,Austin,R04,HM-014,1,119000,151000,2024-04-26,2024-06-26,Filled
+REQ-1078,D01,Junior Software Engineer,Entry,Remote,R03,HM-012,1,86000,109000,2024-04-29,2024-06-05,Filled
+REQ-1079,D01,Backend Engineer,Mid,Remote,R01,HM-012,1,119000,151000,2024-05-01,2024-06-10,Filled
+REQ-1080,D01,Lead Frontend Engineer,Lead,New York,R04,HM-012,1,184000,234000,2024-05-01,2024-10-28,Cancelled
+REQ-1081,D01,QA Engineer,Mid,Remote,R01,HM-012,1,119000,151000,2024-05-02,2024-06-21,Filled
+REQ-1082,D04,Sales Development Rep,Mid,New York,R05,HM-045,1,75000,95000,2024-05-02,2024-06-01,Filled
+REQ-1083,D01,Senior Software Engineer,Senior,Remote,R04,HM-015,1,154000,197000,2024-05-03,2024-07-14,Filled
+REQ-1084,D09,Operations Analyst,Mid,Chicago,R10,HM-094,3,66000,84000,2024-05-06,2024-11-02,Cancelled
+REQ-1085,D06,Senior Customer Success Manager,Senior,Austin,R07,HM-065,1,63000,80000,2024-05-06,2024-07-09,Filled
+REQ-1086,D04,Account Executive,Mid,Chicago,R05,HM-044,1,75000,95000,2024-05-07,2024-06-24,Filled
+REQ-1087,D06,Junior Customer Success Manager,Entry,New York,R06,HM-063,1,35000,44000,2024-05-09,2024-06-05,Filled
+REQ-1088,D02,Senior Data Analyst,Senior,New York,R03,HM-025,1,137000,175000,2024-05-10,2024-07-20,Filled
+REQ-1089,D09,Lead Project Coordinator,Lead,Austin,R09,HM-095,1,102000,130000,2024-05-14,2024-06-30,Filled
+REQ-1090,D07,Senior FP&A Manager,Senior,Remote,R10,HM-071,1,109000,138000,2024-05-14,2024-07-16,Filled
+REQ-1091,D06,Customer Success Manager,Mid,Remote,R07,HM-061,3,48000,62000,2024-05-15,2024-06-30,Filled
+REQ-1092,D04,Junior Account Executive,Entry,New York,R05,HM-041,3,54000,69000,2024-05-15,2024-11-11,Cancelled
+REQ-1093,D07,Lead FP&A Manager,Lead,New York,R09,HM-072,1,130000,165000,2024-05-16,2024-11-12,Cancelled
+REQ-1094,D06,Lead Customer Success Manager,Lead,Austin,R05,HM-061,1,75000,95000,2024-05-16,2024-06-20,Filled
+REQ-1095,D06,Senior Support Team Lead,Senior,New York,R06,HM-062,1,63000,80000,2024-05-17,2024-07-04,Filled
+REQ-1096,D08,Senior Talent Partner,Senior,Remote,R09,HM-083,1,92000,116000,2024-05-20,2024-08-01,Filled
+REQ-1097,D05,Marketing Specialist,Mid,Chicago,R05,HM-055,2,79000,101000,2024-05-21,2024-07-13,Filled
+REQ-1098,D03,Junior Product Manager,Entry,Remote,R01,HM-032,1,82000,105000,2024-05-21,2024-06-25,Filled
+REQ-1099,D04,Sales Development Rep,Mid,New York,R08,HM-043,2,75000,95000,2024-05-22,2024-11-18,Cancelled
+REQ-1100,D01,QA Engineer,Mid,Austin,R01,HM-015,2,119000,151000,2024-05-23,2024-11-19,Cancelled
+REQ-1101,D01,DevOps Engineer,Mid,New York,R03,HM-014,1,119000,151000,2024-05-24,2024-11-20,Cancelled
+REQ-1102,D06,Lead Support Team Lead,Lead,Remote,R05,HM-065,1,75000,95000,2024-05-27,2024-07-04,Filled
+REQ-1103,D06,Senior Support Specialist,Senior,New York,R08,HM-061,1,63000,80000,2024-05-27,2024-07-05,Filled
+REQ-1104,D09,Project Coordinator,Mid,New York,R09,HM-091,2,66000,84000,2024-05-28,2024-11-24,Cancelled
+REQ-1105,D07,Junior FP&A Manager,Entry,Austin,R10,HM-074,1,60000,77000,2024-05-28,2024-11-24,Cancelled
+REQ-1106,D04,Account Manager,Mid,New York,R06,HM-041,2,75000,95000,2024-05-29,2024-07-09,Filled
+REQ-1107,D01,Junior Software Engineer,Entry,New York,R01,HM-015,2,86000,109000,2024-05-29,2024-07-04,Filled
+REQ-1108,D04,Junior Account Manager,Entry,Remote,R07,HM-044,2,54000,69000,2024-05-30,2024-07-11,Filled
+REQ-1109,D09,Senior Procurement Specialist,Senior,Austin,R09,HM-093,1,86000,109000,2024-06-03,2024-11-30,Cancelled
+REQ-1110,D06,Senior Support Team Lead,Senior,New York,R08,HM-062,1,63000,80000,2024-06-04,2024-08-11,Filled
+REQ-1111,D04,Lead Account Manager,Lead,Austin,R08,HM-043,1,116000,148000,2024-06-05,2024-12-02,Cancelled
+REQ-1112,D04,Junior Account Manager,Entry,Chicago,R06,HM-044,2,54000,69000,2024-06-05,2024-12-02,Cancelled
+REQ-1113,D01,Junior DevOps Engineer,Entry,Remote,R02,HM-014,1,86000,109000,2024-06-06,2024-07-22,Filled
+REQ-1114,D01,DevOps Engineer,Mid,Chicago,R04,HM-014,1,119000,151000,2024-06-07,2024-12-04,Cancelled
+REQ-1115,D01,Backend Engineer,Mid,Remote,R02,HM-014,3,119000,151000,2024-06-11,2024-08-10,Filled
+REQ-1116,D08,Lead Talent Partner,Lead,Remote,R09,HM-081,1,109000,139000,2024-06-12,2024-07-02,Filled
+REQ-1117,D05,Junior Marketing Specialist,Entry,Austin,R07,HM-055,1,57000,73000,2024-06-13,2024-07-23,Filled
+REQ-1118,D01,Lead Software Engineer,Lead,Chicago,R04,HM-015,1,184000,234000,2024-06-14,2024-08-10,Filled
+REQ-1119,D04,Senior Account Executive,Senior,Chicago,R06,HM-042,1,97000,124000,2024-06-17,2024-12-14,Cancelled
+REQ-1120,D01,Lead Backend Engineer,Lead,Austin,R04,HM-013,1,184000,234000,2024-06-18,2024-12-15,Cancelled
+REQ-1121,D01,Frontend Engineer,Mid,Remote,R04,HM-014,2,119000,151000,2024-06-18,2024-08-05,Filled
+REQ-1122,D06,Support Specialist,Mid,New York,R06,HM-064,2,48000,62000,2024-06-20,2024-07-31,Filled
+REQ-1123,D05,Senior Marketing Specialist,Senior,Remote,R06,HM-054,1,103000,131000,2024-06-26,2024-08-09,Filled
+REQ-1124,D04,Account Manager,Mid,Chicago,R05,HM-045,1,75000,95000,2024-06-26,2024-12-23,Cancelled
+REQ-1125,D02,Senior Data Engineer,Senior,New York,R03,HM-025,1,137000,175000,2024-06-27,2024-08-20,Filled
+REQ-1126,D05,Senior Growth Marketer,Senior,New York,R06,HM-055,1,103000,131000,2024-06-27,2024-12-24,Cancelled
+REQ-1127,D09,Procurement Specialist,Mid,Chicago,R09,HM-094,1,66000,84000,2024-06-28,2024-07-20,Filled
+REQ-1128,D04,Senior Account Executive,Senior,Remote,R05,HM-045,1,97000,124000,2024-07-02,2024-07-27,Filled
+REQ-1129,D01,Frontend Engineer,Mid,Austin,R02,HM-012,2,119000,151000,2024-07-02,2024-12-29,Cancelled
+REQ-1130,D01,Lead DevOps Engineer,Lead,Chicago,R02,HM-014,1,184000,234000,2024-07-04,2024-12-31,Cancelled
+REQ-1131,D01,Senior Frontend Engineer,Senior,Remote,R02,HM-015,1,154000,197000,2024-07-05,2024-08-05,Filled
+REQ-1132,D09,Junior Operations Analyst,Entry,Remote,R09,HM-092,3,48000,60000,2024-07-05,2025-01-01,Cancelled
+REQ-1133,D04,Senior Account Executive,Senior,Chicago,R06,HM-044,1,97000,124000,2024-07-05,2024-08-26,Filled
+REQ-1134,D07,Accountant,Mid,Remote,R09,HM-071,1,84000,106000,2024-07-05,2024-08-25,Filled
+REQ-1135,D01,Junior DevOps Engineer,Entry,Remote,R01,HM-015,1,86000,109000,2024-07-08,2024-09-08,Filled
+REQ-1136,D02,Lead Data Analyst,Lead,New York,R02,HM-025,1,164000,208000,2024-07-09,2024-09-09,Filled
+REQ-1137,D06,Lead Customer Success Manager,Lead,Chicago,R07,HM-065,1,75000,95000,2024-07-10,2024-08-16,Filled
+REQ-1138,D08,Payroll Specialist,Mid,Austin,R09,HM-085,2,70000,90000,2024-07-10,2025-01-06,Cancelled
+REQ-1139,D03,Lead UX Researcher,Lead,Chicago,R02,HM-033,1,177000,226000,2024-07-12,2024-09-06,Filled
+REQ-1140,D01,DevOps Engineer,Mid,New York,R04,HM-014,1,119000,151000,2024-07-12,2025-01-08,Cancelled
+REQ-1141,D07,Junior FP&A Manager,Entry,Remote,R10,HM-072,1,60000,77000,2024-07-15,2025-01-11,Cancelled
+REQ-1142,D02,Junior Data Engineer,Entry,Austin,R03,HM-023,1,76000,97000,2024-07-17,2024-08-23,Filled
+REQ-1143,D06,Senior Support Specialist,Senior,Austin,R08,HM-061,1,63000,80000,2024-07-18,2024-08-29,Filled
+REQ-1144,D01,Senior DevOps Engineer,Senior,Remote,R02,HM-012,1,154000,197000,2024-07-19,2025-01-15,Cancelled
+REQ-1145,D06,Support Team Lead,Mid,Chicago,R06,HM-064,1,48000,62000,2024-07-22,2025-01-18,Cancelled
+REQ-1146,D07,Senior Accountant,Senior,New York,R09,HM-075,1,109000,138000,2024-07-24,2024-09-07,Filled
+REQ-1147,D06,Support Team Lead,Mid,New York,R06,HM-065,1,48000,62000,2024-07-30,2024-10-05,Filled
+REQ-1148,D03,Senior Product Designer,Senior,New York,R02,HM-035,1,149000,189000,2024-07-30,2024-09-26,Filled
+REQ-1149,D06,Lead Support Specialist,Lead,Remote,R06,HM-062,1,75000,95000,2024-07-31,2024-09-10,Filled
+REQ-1150,D01,QA Engineer,Mid,Chicago,R01,HM-013,1,119000,151000,2024-07-31,2024-10-09,Filled
+REQ-1151,D02,BI Developer,Mid,Chicago,R01,HM-021,1,106000,134000,2024-08-01,2025-01-28,Cancelled
+REQ-1152,D04,Junior Account Manager,Entry,Remote,R06,HM-044,1,54000,69000,2024-08-01,2024-09-02,Filled
+REQ-1153,D08,Junior Payroll Specialist,Entry,Austin,R10,HM-084,1,51000,65000,2024-08-08,2024-09-04,Filled
+REQ-1154,D01,Junior Frontend Engineer,Entry,New York,R02,HM-013,1,86000,109000,2024-08-08,2024-09-05,Filled
+REQ-1155,D08,Payroll Specialist,Mid,Austin,R09,HM-082,2,70000,90000,2024-08-08,2024-09-13,Filled
+REQ-1156,D06,Junior Support Team Lead,Entry,New York,R08,HM-062,1,35000,44000,2024-08-09,2024-09-17,Filled
+REQ-1157,D09,Project Coordinator,Mid,New York,R09,HM-093,2,66000,84000,2024-08-12,2025-02-08,Cancelled
+REQ-1158,D03,Lead Product Designer,Lead,Austin,R04,HM-034,1,177000,226000,2024-08-14,2025-02-10,Cancelled
+REQ-1159,D01,Software Engineer,Mid,Remote,R02,HM-012,3,119000,151000,2024-08-15,2025-02-11,Cancelled
+REQ-1160,D02,Senior Data Engineer,Senior,Chicago,R04,HM-021,1,137000,175000,2024-08-15,2025-02-11,Cancelled
+REQ-1161,D07,Senior FP&A Manager,Senior,New York,R09,HM-073,1,109000,138000,2024-08-16,2024-09-25,Filled
+REQ-1162,D09,Lead Project Coordinator,Lead,Austin,R10,HM-094,1,102000,130000,2024-08-19,2025-02-15,Cancelled
+REQ-1163,D06,Lead Customer Success Manager,Lead,New York,R08,HM-065,1,75000,95000,2024-08-20,2024-09-21,Filled
+REQ-1164,D04,Sales Development Rep,Mid,New York,R06,HM-042,2,75000,95000,2024-08-21,2024-09-23,Filled
+REQ-1165,D02,Junior Data Scientist,Entry,Chicago,R04,HM-023,3,76000,97000,2024-08-21,2025-02-17,Cancelled
+REQ-1166,D07,Accountant,Mid,Remote,R10,HM-073,1,84000,106000,2024-08-22,2024-09-25,Filled
+REQ-1167,D08,Senior Talent Partner,Senior,Chicago,R10,HM-082,1,92000,116000,2024-08-23,2024-11-01,Filled
+REQ-1168,D01,Senior DevOps Engineer,Senior,New York,R03,HM-013,1,154000,197000,2024-08-23,2025-02-19,Cancelled
+REQ-1169,D01,Lead Backend Engineer,Lead,Remote,R01,HM-015,1,184000,234000,2024-08-27,2024-10-01,Filled
+REQ-1170,D07,Junior Financial Analyst,Entry,Remote,R09,HM-072,1,60000,77000,2024-08-27,2024-09-24,Filled
+REQ-1171,D07,Junior FP&A Manager,Entry,Remote,R10,HM-074,3,60000,77000,2024-09-02,2024-10-19,Filled
+REQ-1172,D02,Junior BI Developer,Entry,Remote,R02,HM-025,3,76000,97000,2024-09-03,2025-03-02,Cancelled
+REQ-1173,D02,Junior Data Scientist,Entry,Chicago,R02,HM-025,1,76000,97000,2024-09-05,2024-10-12,Filled
+REQ-1174,D04,Junior Account Manager,Entry,Chicago,R07,HM-045,2,54000,69000,2024-09-05,2025-03-04,Cancelled
+REQ-1175,D04,Junior Account Executive,Entry,New York,R05,HM-041,1,54000,69000,2024-09-10,2025-03-09,Cancelled
+REQ-1176,D01,Senior Software Engineer,Senior,New York,R04,HM-014,1,154000,197000,2024-09-11,2024-10-18,Filled
+REQ-1177,D07,Junior Accountant,Entry,New York,R09,HM-072,1,60000,77000,2024-09-12,2025-03-11,Cancelled
+REQ-1178,D04,Account Manager,Mid,Chicago,R07,HM-044,3,75000,95000,2024-09-13,2025-03-12,Cancelled
+REQ-1179,D06,Support Team Lead,Mid,Remote,R07,HM-062,1,48000,62000,2024-09-16,2024-10-22,Filled
+REQ-1180,D01,Junior QA Engineer,Entry,New York,R02,HM-014,2,86000,109000,2024-09-17,2024-12-11,Filled
+REQ-1181,D09,Senior Procurement Specialist,Senior,Austin,R09,HM-091,1,86000,109000,2024-09-17,2024-11-08,Filled
+REQ-1182,D06,Senior Customer Success Manager,Senior,Chicago,R08,HM-065,1,63000,80000,2024-09-17,2024-10-30,Filled
+REQ-1183,D03,Product Designer,Mid,New York,R04,HM-032,1,114000,146000,2024-09-19,2024-11-07,Filled
+REQ-1184,D09,Procurement Specialist,Mid,Chicago,R09,HM-091,3,66000,84000,2024-09-24,2024-12-16,Filled
+REQ-1185,D06,Support Specialist,Mid,Remote,R08,HM-064,1,48000,62000,2024-09-25,2024-10-20,Filled
+REQ-1186,D07,Senior FP&A Manager,Senior,Chicago,R09,HM-073,1,109000,138000,2024-09-26,2024-11-01,Filled
+REQ-1187,D01,Junior Frontend Engineer,Entry,Remote,R02,HM-014,3,86000,109000,2024-10-02,2025-03-31,Cancelled
+REQ-1188,D01,Senior DevOps Engineer,Senior,Remote,R01,HM-014,1,154000,197000,2024-10-03,2024-12-20,Filled
+REQ-1189,D06,Senior Customer Success Manager,Senior,Remote,R06,HM-061,1,63000,80000,2024-10-04,2024-11-05,Filled
+REQ-1190,D02,Junior Data Scientist,Entry,Remote,R02,HM-024,2,76000,97000,2024-10-07,2024-11-12,Filled
+REQ-1191,D04,Junior Account Executive,Entry,Chicago,R06,HM-043,1,54000,69000,2024-10-07,2024-11-21,Filled
+REQ-1192,D01,QA Engineer,Mid,Chicago,R02,HM-011,3,119000,151000,2024-10-08,2025-04-06,Cancelled
+REQ-1193,D09,Junior Operations Analyst,Entry,New York,R10,HM-095,3,48000,60000,2024-10-08,2025-04-06,Cancelled
+REQ-1194,D04,Account Manager,Mid,Remote,R06,HM-041,1,75000,95000,2024-10-10,2024-11-05,Filled
+REQ-1195,D07,Accountant,Mid,Chicago,R09,HM-073,1,84000,106000,2024-10-14,2024-12-09,Filled
+REQ-1196,D01,Junior Frontend Engineer,Entry,Remote,R04,HM-011,1,86000,109000,2024-10-15,2024-12-05,Filled
+REQ-1197,D04,Sales Development Rep,Mid,Remote,R06,HM-045,1,75000,95000,2024-10-16,2024-12-01,Filled
+REQ-1198,D01,Lead DevOps Engineer,Lead,New York,R02,HM-014,1,184000,234000,2024-10-17,2025-04-15,Cancelled
+REQ-1199,D08,Senior Payroll Specialist,Senior,Remote,R09,HM-084,1,92000,116000,2024-10-17,2024-11-28,Filled
+REQ-1200,D04,Lead Sales Development Rep,Lead,Chicago,R05,HM-043,1,116000,148000,2024-10-18,2025-04-16,Cancelled
+REQ-1201,D01,Junior QA Engineer,Entry,New York,R01,HM-011,1,86000,109000,2024-10-21,2024-11-13,Filled
+REQ-1202,D01,Senior QA Engineer,Senior,Remote,R01,HM-013,1,154000,197000,2024-10-25,2025-04-23,Cancelled
+REQ-1203,D04,Senior Sales Development Rep,Senior,Remote,R06,HM-044,1,97000,124000,2024-10-25,2024-12-14,Filled
+REQ-1204,D01,Senior Frontend Engineer,Senior,Remote,R04,HM-012,1,154000,197000,2024-10-30,2025-04-28,Cancelled
+REQ-1205,D01,Senior Software Engineer,Senior,Austin,R02,HM-013,1,154000,197000,2024-10-30,2024-12-10,Filled
+REQ-1206,D04,Senior Account Manager,Senior,Remote,R08,HM-043,1,97000,124000,2024-11-06,2025-01-06,Filled
+REQ-1207,D04,Account Manager,Mid,New York,R08,HM-043,2,75000,95000,2024-11-06,2025-05-05,Cancelled
+REQ-1208,D05,Senior Marketing Specialist,Senior,Austin,R06,HM-055,1,103000,131000,2024-11-08,2025-05-07,Cancelled
+REQ-1209,D05,Lead Content Strategist,Lead,Austin,R05,HM-054,1,123000,156000,2024-11-14,2025-05-13,Cancelled
+REQ-1210,D03,UX Researcher,Mid,New York,R01,HM-032,3,114000,146000,2024-11-15,2025-05-14,Cancelled
+REQ-1211,D05,Junior Marketing Specialist,Entry,New York,R08,HM-054,2,57000,73000,2024-11-15,2025-05-14,Cancelled
+REQ-1212,D01,Frontend Engineer,Mid,Chicago,R02,HM-015,1,119000,151000,2024-11-18,2025-01-04,Filled
+REQ-1213,D02,Senior Data Analyst,Senior,Remote,R02,HM-023,1,137000,175000,2024-11-22,2025-01-25,Filled
+REQ-1214,D06,Junior Customer Success Manager,Entry,Chicago,R06,HM-065,2,35000,44000,2024-11-27,2025-01-05,Filled
+REQ-1215,D01,Junior Backend Engineer,Entry,Austin,R01,HM-012,1,86000,109000,2024-11-27,2025-05-26,Cancelled
+REQ-1216,D01,Lead Backend Engineer,Lead,Remote,R01,HM-014,1,184000,234000,2024-11-28,2025-01-09,Filled
+REQ-1217,D02,Data Analyst,Mid,New York,R02,HM-021,1,106000,134000,2024-11-28,2025-01-08,Filled
+REQ-1218,D04,Junior Account Executive,Entry,Austin,R07,HM-045,1,54000,69000,2024-11-29,2025-01-05,Filled
+REQ-1219,D01,Software Engineer,Mid,Remote,R03,HM-012,1,119000,151000,2024-11-29,2025-01-16,Filled
+REQ-1220,D01,Senior Software Engineer,Senior,Chicago,R04,HM-012,1,154000,197000,2024-12-03,2025-04-09,Filled
+REQ-1221,D04,Lead Sales Development Rep,Lead,Chicago,R07,HM-043,1,116000,148000,2024-12-09,2025-06-07,Cancelled
+REQ-1222,D01,Software Engineer,Mid,Chicago,R04,HM-014,2,119000,151000,2024-12-18,2025-06-16,Cancelled
+REQ-1223,D06,Junior Support Specialist,Entry,New York,R07,HM-065,1,35000,44000,2024-12-25,2025-02-02,Filled
+REQ-1224,D06,Support Specialist,Mid,Remote,R06,HM-065,1,48000,62000,2024-12-26,2025-01-23,Filled
+REQ-1225,D05,Lead Marketing Specialist,Lead,Chicago,R07,HM-054,1,123000,156000,2024-12-27,2025-02-17,Filled
+REQ-1226,D06,Lead Customer Success Manager,Lead,New York,R06,HM-065,1,75000,95000,2024-12-30,2025-02-09,Filled
+REQ-1227,D03,Junior Product Manager,Entry,Remote,R03,HM-032,1,82000,105000,2025-01-02,2025-03-16,Filled
+REQ-1228,D01,DevOps Engineer,Mid,Remote,R04,HM-015,1,119000,151000,2025-01-02,2025-02-25,Filled
+REQ-1229,D04,Sales Development Rep,Mid,Remote,R07,HM-043,1,75000,95000,2025-01-03,2025-07-02,Cancelled
+REQ-1230,D03,Junior Product Designer,Entry,Remote,R01,HM-032,1,82000,105000,2025-01-07,2025-02-02,Filled
+REQ-1231,D05,Senior Content Strategist,Senior,New York,R05,HM-053,1,103000,131000,2025-01-07,2025-02-26,Filled
+REQ-1232,D01,Junior Backend Engineer,Entry,Chicago,R04,HM-015,1,86000,109000,2025-01-08,2025-02-02,Filled
+REQ-1233,D01,Frontend Engineer,Mid,New York,R03,HM-014,2,119000,151000,2025-01-08,2025-07-07,Cancelled
+REQ-1234,D07,Accountant,Mid,Remote,R09,HM-073,1,84000,106000,2025-01-08,2025-07-07,Cancelled
+REQ-1235,D02,Senior BI Developer,Senior,Austin,R02,HM-022,1,137000,175000,2025-01-09,2025-02-17,Filled
+REQ-1236,D04,Junior Account Manager,Entry,Chicago,R06,HM-041,1,54000,69000,2025-01-10,2025-02-18,Filled
+REQ-1237,D09,Senior Procurement Specialist,Senior,Remote,R09,HM-095,1,86000,109000,2025-01-11,2025-02-15,Filled
+REQ-1238,D02,Lead BI Developer,Lead,Austin,R04,HM-024,1,164000,208000,2025-01-16,2025-02-27,Filled
+REQ-1239,D01,Senior Software Engineer,Senior,New York,R04,HM-013,1,154000,197000,2025-01-17,2025-04-03,Filled
+REQ-1240,D06,Support Team Lead,Mid,Remote,R06,HM-065,1,48000,62000,2025-01-23,2025-02-22,Filled
+REQ-1241,D04,Senior Account Manager,Senior,Remote,R06,HM-042,1,97000,124000,2025-01-23,2025-02-23,Filled
+REQ-1242,D05,Senior Content Strategist,Senior,Remote,R05,HM-053,1,103000,131000,2025-01-28,2025-07-27,Cancelled
+REQ-1243,D01,Junior Backend Engineer,Entry,Austin,R04,HM-014,2,86000,109000,2025-01-29,2025-07-28,Cancelled
+REQ-1244,D04,Junior Account Executive,Entry,Remote,R08,HM-044,1,54000,69000,2025-01-31,2025-03-04,Filled
+REQ-1245,D01,Backend Engineer,Mid,Remote,R02,HM-011,2,119000,151000,2025-02-03,2025-08-02,Cancelled
+REQ-1246,D02,Data Engineer,Mid,New York,R02,HM-023,2,106000,134000,2025-02-05,2025-04-06,Filled
+REQ-1247,D06,Senior Support Specialist,Senior,Chicago,R05,HM-064,1,63000,80000,2025-02-07,2025-03-17,Filled
+REQ-1248,D01,DevOps Engineer,Mid,Chicago,R03,HM-011,1,119000,151000,2025-02-07,2025-08-06,Cancelled
+REQ-1249,D02,Junior Data Engineer,Entry,New York,R02,HM-023,1,76000,97000,2025-02-07,2025-03-23,Filled
+REQ-1250,D09,Senior Project Coordinator,Senior,Remote,R09,HM-094,1,86000,109000,2025-02-10,2025-08-09,Cancelled
+REQ-1251,D09,Procurement Specialist,Mid,Austin,R09,HM-093,1,66000,84000,2025-02-10,2025-08-09,Cancelled
+REQ-1252,D04,Account Manager,Mid,New York,R08,HM-041,1,75000,95000,2025-02-10,2025-03-04,Filled
+REQ-1253,D06,Senior Support Specialist,Senior,New York,R05,HM-064,1,63000,80000,2025-02-12,2025-03-24,Filled
+REQ-1254,D05,Senior Content Strategist,Senior,Chicago,R06,HM-051,1,103000,131000,2025-02-13,2025-03-13,Filled
+REQ-1255,D04,Senior Account Executive,Senior,New York,R05,HM-042,1,97000,124000,2025-02-14,2025-03-20,Filled
+REQ-1256,D07,FP&A Manager,Mid,Austin,R09,HM-074,1,84000,106000,2025-02-17,2025-04-21,Filled
+REQ-1257,D01,Senior Software Engineer,Senior,Austin,R04,HM-013,1,154000,197000,2025-02-20,2025-08-19,Cancelled
+REQ-1258,D07,Financial Analyst,Mid,Austin,R10,HM-072,1,84000,106000,2025-02-24,2025-04-28,Filled
+REQ-1259,D01,Senior QA Engineer,Senior,New York,R02,HM-014,1,154000,197000,2025-02-24,2025-04-21,Filled
+REQ-1260,D07,Financial Analyst,Mid,New York,R09,HM-071,1,84000,106000,2025-02-26,2025-03-15,Filled
+REQ-1261,D06,Support Specialist,Mid,Chicago,R05,HM-064,2,48000,62000,2025-02-26,2025-03-29,Filled
+REQ-1262,D04,Senior Sales Development Rep,Senior,New York,R06,HM-042,1,97000,124000,2025-02-27,2025-04-02,Filled
+REQ-1263,D06,Junior Customer Success Manager,Entry,Remote,R08,HM-063,1,35000,44000,2025-02-28,2025-04-09,Filled
+REQ-1264,D04,Account Executive,Mid,Remote,R06,HM-043,2,75000,95000,2025-03-03,2025-04-16,Filled
+REQ-1265,D06,Junior Support Specialist,Entry,Chicago,R08,HM-062,1,35000,44000,2025-03-04,2025-04-17,Filled
+REQ-1266,D01,Lead Backend Engineer,Lead,Chicago,R01,HM-011,1,184000,234000,2025-03-04,2025-08-31,Cancelled
+REQ-1267,D04,Sales Development Rep,Mid,New York,R06,HM-041,1,75000,95000,2025-03-04,2025-03-30,Filled
+REQ-1268,D08,Payroll Specialist,Mid,New York,R09,HM-085,3,70000,90000,2025-03-06,2025-05-04,Filled
+REQ-1269,D09,Junior Operations Analyst,Entry,Austin,R10,HM-093,2,48000,60000,2025-03-12,2025-06-04,Filled
+REQ-1270,D01,Backend Engineer,Mid,New York,R01,HM-012,1,119000,151000,2025-03-13,2025-04-30,Filled
+REQ-1271,D02,Junior Data Analyst,Entry,New York,R01,HM-025,1,76000,97000,2025-03-14,2025-05-13,Filled
+REQ-1272,D08,Payroll Specialist,Mid,Remote,R09,HM-085,1,70000,90000,2025-03-14,2025-04-01,Filled
+REQ-1273,D03,Product Manager,Mid,Austin,R03,HM-034,1,114000,146000,2025-03-17,2025-09-13,Cancelled
+REQ-1274,D01,Backend Engineer,Mid,Austin,R03,HM-015,1,119000,151000,2025-03-19,2025-07-04,Filled
+REQ-1275,D06,Senior Support Specialist,Senior,Remote,R07,HM-064,1,63000,80000,2025-03-19,2025-04-17,Filled
+REQ-1276,D04,Sales Development Rep,Mid,Austin,R08,HM-041,1,75000,95000,2025-03-19,2025-04-20,Filled
+REQ-1277,D06,Customer Success Manager,Mid,Remote,R08,HM-062,1,48000,62000,2025-03-20,2025-04-22,Filled
+REQ-1278,D04,Account Executive,Mid,Austin,R07,HM-043,1,75000,95000,2025-03-24,2025-05-12,Filled
+REQ-1279,D04,Account Manager,Mid,Austin,R07,HM-043,1,75000,95000,2025-03-25,2025-04-27,Filled
+REQ-1280,D04,Senior Sales Development Rep,Senior,Austin,R05,HM-042,1,97000,124000,2025-03-26,2025-09-22,Cancelled
+REQ-1281,D02,Lead Data Scientist,Lead,Austin,R02,HM-025,1,164000,208000,2025-03-28,2025-04-27,Filled
+REQ-1282,D08,Junior Payroll Specialist,Entry,New York,R09,HM-083,1,51000,65000,2025-03-28,2025-05-07,Filled
+REQ-1283,D06,Support Specialist,Mid,Remote,R08,HM-062,2,48000,62000,2025-03-31,2025-05-03,Filled
+REQ-1284,D06,Senior Customer Success Manager,Senior,Remote,R06,HM-063,1,63000,80000,2025-04-01,2025-04-26,Filled
+REQ-1285,D08,Senior HR Generalist,Senior,New York,R10,HM-083,1,92000,116000,2025-04-02,2025-06-08,Filled
+REQ-1286,D02,Data Scientist,Mid,New York,R02,HM-025,1,106000,134000,2025-04-03,2025-06-10,Filled
+REQ-1287,D08,HR Generalist,Mid,Remote,R10,HM-081,1,70000,90000,2025-04-04,2025-05-03,Filled
+REQ-1288,D07,Financial Analyst,Mid,Remote,R09,HM-075,1,84000,106000,2025-04-07,2025-05-17,Filled
+REQ-1289,D04,Account Executive,Mid,New York,R05,HM-045,2,75000,95000,2025-04-08,2025-10-05,Cancelled
+REQ-1290,D04,Junior Account Executive,Entry,Austin,R05,HM-043,3,54000,69000,2025-04-09,2025-10-06,Cancelled
+REQ-1291,D01,Software Engineer,Mid,New York,R02,HM-014,3,119000,151000,2025-04-11,2025-10-08,Cancelled
+REQ-1292,D06,Lead Customer Success Manager,Lead,Austin,R08,HM-063,1,75000,95000,2025-04-11,2025-10-08,Cancelled
+REQ-1293,D01,QA Engineer,Mid,Remote,R02,HM-014,2,119000,151000,2025-04-17,2025-10-14,Cancelled
+REQ-1294,D04,Junior Account Executive,Entry,New York,R08,HM-042,3,54000,69000,2025-04-18,2025-10-15,Cancelled
+REQ-1295,D01,Software Engineer,Mid,New York,R04,HM-011,1,119000,151000,2025-04-22,2025-05-29,Filled
+REQ-1296,D01,QA Engineer,Mid,Chicago,R02,HM-014,1,119000,151000,2025-04-22,2025-10-19,Cancelled
+REQ-1297,D05,Senior Content Strategist,Senior,Remote,R06,HM-052,1,103000,131000,2025-04-25,2025-05-14,Filled
+REQ-1298,D04,Senior Account Executive,Senior,Remote,R06,HM-043,1,97000,124000,2025-04-25,2025-06-03,Filled
+REQ-1299,D06,Senior Customer Success Manager,Senior,New York,R06,HM-062,1,63000,80000,2025-04-30,2025-06-11,Filled
+REQ-1300,D06,Support Specialist,Mid,New York,R05,HM-065,3,48000,62000,2025-05-06,2025-06-27,Filled
+REQ-1301,D09,Project Coordinator,Mid,New York,R09,HM-092,2,66000,84000,2025-05-06,2025-06-24,Filled
+REQ-1302,D01,QA Engineer,Mid,New York,R01,HM-012,1,119000,151000,2025-05-07,2025-07-04,Filled
+REQ-1303,D05,Content Strategist,Mid,New York,R08,HM-053,3,79000,101000,2025-05-07,2025-11-03,Cancelled
+REQ-1304,D05,Content Strategist,Mid,Chicago,R08,HM-054,1,79000,101000,2025-05-08,2025-06-06,Filled
+REQ-1305,D05,Senior Marketing Specialist,Senior,Chicago,R08,HM-055,1,103000,131000,2025-05-08,2025-06-18,Filled
+REQ-1306,D04,Senior Account Manager,Senior,New York,R08,HM-043,1,97000,124000,2025-05-09,2025-11-05,Cancelled
+REQ-1307,D04,Sales Development Rep,Mid,New York,R06,HM-045,1,75000,95000,2025-05-09,2025-11-05,Cancelled
+REQ-1308,D07,Junior Financial Analyst,Entry,Remote,R09,HM-073,1,60000,77000,2025-05-13,2025-07-15,Filled
+REQ-1309,D04,Junior Account Executive,Entry,Chicago,R08,HM-045,2,54000,69000,2025-05-14,2025-11-10,Cancelled
+REQ-1310,D04,Account Manager,Mid,Chicago,R06,HM-045,2,75000,95000,2025-05-15,2025-06-19,Filled
+REQ-1311,D06,Customer Success Manager,Mid,Remote,R08,HM-064,1,48000,62000,2025-05-15,2025-06-07,Filled
+REQ-1312,D01,Frontend Engineer,Mid,Chicago,R01,HM-013,1,119000,151000,2025-05-16,2025-11-12,Cancelled
+REQ-1313,D04,Junior Sales Development Rep,Entry,New York,R07,HM-045,2,54000,69000,2025-05-16,2025-11-12,Cancelled
+REQ-1314,D01,QA Engineer,Mid,Chicago,R03,HM-015,1,119000,151000,2025-05-22,2025-07-02,Filled
+REQ-1315,D01,Junior Software Engineer,Entry,Remote,R02,HM-012,1,86000,109000,2025-05-23,2025-06-23,Filled
+REQ-1316,D01,Junior Software Engineer,Entry,New York,R02,HM-015,2,86000,109000,2025-05-26,2025-11-22,Cancelled
+REQ-1317,D01,Junior Backend Engineer,Entry,New York,R02,HM-012,2,86000,109000,2025-05-29,2025-11-25,Cancelled
+REQ-1318,D01,Junior QA Engineer,Entry,Chicago,R04,HM-013,1,86000,109000,2025-05-30,2025-07-10,Filled
+REQ-1319,D04,Junior Sales Development Rep,Entry,Austin,R06,HM-044,1,54000,69000,2025-06-05,2025-07-09,Filled
+REQ-1320,D05,Content Strategist,Mid,Chicago,R05,HM-053,1,79000,101000,2025-06-06,2025-07-17,Filled
+REQ-1321,D07,Senior FP&A Manager,Senior,Chicago,R10,HM-072,1,109000,138000,2025-06-09,2025-08-08,Filled
+REQ-1322,D04,Junior Account Executive,Entry,Austin,R06,HM-041,1,54000,69000,2025-06-10,2025-07-14,Filled
+REQ-1323,D08,Talent Partner,Mid,New York,R10,HM-083,2,70000,90000,2025-06-10,2025-08-12,Filled
+REQ-1324,D03,Senior UX Researcher,Senior,Chicago,R01,HM-035,1,149000,189000,2025-06-11,2025-07-30,Filled
+REQ-1325,D06,Junior Support Specialist,Entry,Austin,R06,HM-062,3,35000,44000,2025-06-12,2025-12-09,Cancelled
+REQ-1326,D04,Sales Development Rep,Mid,Chicago,R05,HM-043,2,75000,95000,2025-06-13,2025-07-10,Filled
+REQ-1327,D05,Marketing Specialist,Mid,Remote,R05,HM-052,1,79000,101000,2025-06-17,2025-07-15,Filled
+REQ-1328,D02,Senior Data Engineer,Senior,Remote,R04,HM-025,1,137000,175000,2025-06-17,2025-12-14,Cancelled
+REQ-1329,D09,Senior Project Coordinator,Senior,Chicago,R09,HM-095,1,86000,109000,2025-06-17,2025-07-28,Filled
+REQ-1330,D06,Support Specialist,Mid,Chicago,R05,HM-064,1,48000,62000,2025-06-27,2025-07-29,Filled
+REQ-1331,D01,DevOps Engineer,Mid,New York,R02,HM-012,1,119000,151000,2025-06-30,2025-08-11,Filled
+REQ-1332,D04,Junior Account Executive,Entry,New York,R06,HM-044,1,54000,69000,2025-07-01,2025-08-17,Filled
+REQ-1333,D09,Junior Procurement Specialist,Entry,New York,R09,HM-091,1,48000,60000,2025-07-02,2025-07-26,Filled
+REQ-1334,D01,Junior DevOps Engineer,Entry,Chicago,R03,HM-014,1,86000,109000,2025-07-04,2025-08-26,Filled
+REQ-1335,D02,Data Scientist,Mid,New York,R04,HM-021,3,106000,134000,2025-07-04,2025-12-31,Cancelled
+REQ-1336,D06,Junior Support Specialist,Entry,New York,R06,HM-061,1,35000,44000,2025-07-04,2025-07-21,Filled
+REQ-1337,D01,Lead Software Engineer,Lead,Chicago,R01,HM-012,1,184000,234000,2025-07-08,2025-08-20,Filled
+REQ-1338,D06,Senior Customer Success Manager,Senior,New York,R08,HM-064,1,63000,80000,2025-07-08,2025-08-14,Filled
+REQ-1339,D05,Content Strategist,Mid,Remote,R06,HM-051,1,79000,101000,2025-07-09,2025-08-29,Filled
+REQ-1340,D06,Senior Support Specialist,Senior,Remote,R06,HM-064,1,63000,80000,2025-07-15,2025-08-19,Filled
+REQ-1341,D04,Lead Account Executive,Lead,Remote,R06,HM-043,1,116000,148000,2025-07-21,2025-08-29,Filled
+REQ-1342,D09,Senior Project Coordinator,Senior,New York,R09,HM-095,1,86000,109000,2025-07-21,2025-08-23,Filled
+REQ-1343,D03,Product Designer,Mid,New York,R01,HM-031,1,114000,146000,2025-07-21,2025-08-25,Filled
+REQ-1344,D05,Lead Growth Marketer,Lead,New York,R08,HM-051,1,123000,156000,2025-07-21,2025-09-21,Filled
+REQ-1345,D01,Senior Software Engineer,Senior,Remote,R04,HM-013,1,154000,197000,2025-07-22,2025-09-06,Filled
+REQ-1346,D04,Senior Account Manager,Senior,Austin,R05,HM-045,1,97000,124000,2025-07-25,2025-08-27,Filled
+REQ-1347,D04,Junior Account Executive,Entry,New York,R07,HM-045,1,54000,69000,2025-07-29,2025-08-25,Filled
+REQ-1348,D09,Project Coordinator,Mid,Chicago,R09,HM-094,2,66000,84000,2025-07-30,2025-09-10,Filled
+REQ-1349,D09,Junior Operations Analyst,Entry,Chicago,R09,HM-094,2,48000,60000,2025-07-30,2025-09-04,Filled
+REQ-1350,D01,Junior QA Engineer,Entry,Remote,R02,HM-015,1,86000,109000,2025-07-31,2025-10-12,Filled
+REQ-1351,D01,Junior QA Engineer,Entry,Austin,R03,HM-012,1,86000,109000,2025-07-31,2025-11-02,Filled
+REQ-1352,D01,Backend Engineer,Mid,Remote,R02,HM-014,1,119000,151000,2025-08-07,2025-09-28,Filled
+REQ-1353,D01,Lead DevOps Engineer,Lead,New York,R02,HM-013,1,184000,234000,2025-08-11,,Open
+REQ-1354,D06,Support Team Lead,Mid,Remote,R05,HM-062,2,48000,62000,2025-08-13,,Open
+REQ-1355,D04,Lead Account Manager,Lead,Chicago,R06,HM-041,1,116000,148000,2025-08-13,,Open
+REQ-1356,D04,Junior Account Manager,Entry,New York,R08,HM-041,3,54000,69000,2025-08-13,,Open
+REQ-1357,D04,Lead Account Executive,Lead,Chicago,R07,HM-041,1,116000,148000,2025-08-13,,Open
+REQ-1358,D01,Senior DevOps Engineer,Senior,Chicago,R01,HM-015,1,154000,197000,2025-08-15,,Open
+REQ-1359,D03,Senior UX Researcher,Senior,Austin,R02,HM-033,1,149000,189000,2025-08-18,,Open
+REQ-1360,D09,Senior Operations Analyst,Senior,Austin,R10,HM-092,1,86000,109000,2025-08-20,2025-10-01,Filled
+REQ-1361,D07,Financial Analyst,Mid,Remote,R10,HM-073,1,84000,106000,2025-08-21,2025-10-10,Filled
+REQ-1362,D05,Senior Content Strategist,Senior,Chicago,R08,HM-051,1,103000,131000,2025-08-24,2025-12-09,Filled
+REQ-1363,D01,Lead Software Engineer,Lead,Austin,R03,HM-011,1,184000,234000,2025-08-26,2025-10-09,Filled
+REQ-1364,D09,Operations Analyst,Mid,Austin,R10,HM-093,1,66000,84000,2025-08-26,,Open
+REQ-1365,D04,Junior Sales Development Rep,Entry,Austin,R07,HM-043,3,54000,69000,2025-08-28,,Open
+REQ-1366,D05,Senior Marketing Specialist,Senior,Remote,R07,HM-055,1,103000,131000,2025-08-29,2025-10-12,Filled
+REQ-1367,D01,Lead Software Engineer,Lead,Remote,R02,HM-014,1,184000,234000,2025-09-03,2025-11-22,Filled
+REQ-1368,D02,Lead Data Engineer,Lead,New York,R02,HM-023,1,164000,208000,2025-09-03,,Open
+REQ-1369,D03,Senior UX Researcher,Senior,Chicago,R02,HM-033,1,149000,189000,2025-09-04,,Open
+REQ-1370,D03,Product Designer,Mid,Austin,R04,HM-035,1,114000,146000,2025-09-09,2025-10-13,Filled
+REQ-1371,D01,Lead Frontend Engineer,Lead,Austin,R01,HM-014,1,184000,234000,2025-09-10,2025-10-27,Filled
+REQ-1372,D06,Customer Success Manager,Mid,New York,R07,HM-065,1,48000,62000,2025-09-10,,Open
+REQ-1373,D01,Junior DevOps Engineer,Entry,Remote,R03,HM-014,1,86000,109000,2025-09-11,2025-10-20,Filled
+REQ-1374,D05,Junior Content Strategist,Entry,Austin,R06,HM-051,1,57000,73000,2025-09-12,2025-10-11,Filled
+REQ-1375,D05,Marketing Specialist,Mid,Chicago,R06,HM-052,1,79000,101000,2025-09-15,2025-10-19,Filled
+REQ-1376,D06,Junior Customer Success Manager,Entry,Austin,R06,HM-064,1,35000,44000,2025-09-19,2025-10-26,Filled
+REQ-1377,D02,Senior Data Engineer,Senior,Austin,R04,HM-022,1,137000,175000,2025-09-19,2025-11-28,Filled
+REQ-1378,D02,Data Engineer,Mid,Chicago,R02,HM-025,1,106000,134000,2025-09-19,2025-10-10,Filled
+REQ-1379,D06,Senior Customer Success Manager,Senior,Austin,R08,HM-064,1,63000,80000,2025-09-23,2025-11-06,Filled
+REQ-1380,D03,Senior Product Designer,Senior,New York,R03,HM-034,1,149000,189000,2025-09-24,,Open
+REQ-1381,D01,QA Engineer,Mid,Chicago,R02,HM-013,2,119000,151000,2025-09-24,,Open
+REQ-1382,D08,Payroll Specialist,Mid,New York,R10,HM-084,1,70000,90000,2025-09-25,2025-12-05,Filled
+REQ-1383,D01,Backend Engineer,Mid,Chicago,R01,HM-011,1,119000,151000,2025-09-26,2025-11-07,Filled
+REQ-1384,D08,HR Generalist,Mid,Austin,R09,HM-082,1,70000,90000,2025-09-26,2025-10-26,Filled
+REQ-1385,D02,Junior Data Scientist,Entry,Remote,R01,HM-024,3,76000,97000,2025-09-29,2025-11-07,Filled
+REQ-1386,D03,Junior Product Manager,Entry,Remote,R01,HM-032,1,82000,105000,2025-10-01,2025-10-24,Filled
+REQ-1387,D09,Senior Project Coordinator,Senior,Remote,R09,HM-092,1,86000,109000,2025-10-01,2025-11-14,Filled
+REQ-1388,D04,Sales Development Rep,Mid,Remote,R05,HM-042,1,75000,95000,2025-10-02,2025-11-12,Filled
+REQ-1389,D06,Senior Support Team Lead,Senior,Remote,R07,HM-063,1,63000,80000,2025-10-02,2025-11-10,Filled
+REQ-1390,D04,Senior Account Executive,Senior,New York,R07,HM-042,1,97000,124000,2025-10-09,2025-11-06,Filled
+REQ-1391,D08,HR Generalist,Mid,New York,R09,HM-083,1,70000,90000,2025-10-09,2025-11-11,Filled
+REQ-1392,D06,Lead Customer Success Manager,Lead,Chicago,R06,HM-064,1,75000,95000,2025-10-14,2025-11-20,Filled
+REQ-1393,D04,Junior Sales Development Rep,Entry,New York,R07,HM-041,1,54000,69000,2025-10-15,2025-11-20,Filled
+REQ-1394,D01,QA Engineer,Mid,Remote,R02,HM-013,1,119000,151000,2025-10-16,2025-11-20,Filled
+REQ-1395,D03,UX Researcher,Mid,New York,R02,HM-031,1,114000,146000,2025-10-17,2025-12-11,Filled
+REQ-1396,D04,Account Manager,Mid,Austin,R05,HM-042,2,75000,95000,2025-10-17,2025-11-23,Filled
+REQ-1397,D02,Lead BI Developer,Lead,Remote,R04,HM-023,1,164000,208000,2025-10-20,2025-11-24,Filled
+REQ-1398,D04,Sales Development Rep,Mid,New York,R07,HM-041,1,75000,95000,2025-10-21,2025-12-01,Filled
+REQ-1399,D01,Software Engineer,Mid,Remote,R04,HM-013,1,119000,151000,2025-10-23,,Open
+REQ-1400,D04,Junior Sales Development Rep,Entry,New York,R05,HM-042,1,54000,69000,2025-10-28,2025-11-30,Filled
+REQ-1401,D04,Account Manager,Mid,Remote,R08,HM-041,1,75000,95000,2025-10-29,2025-12-03,Filled
+REQ-1402,D06,Lead Support Team Lead,Lead,Remote,R06,HM-065,1,75000,95000,2025-10-30,2025-12-11,Filled
+REQ-1403,D06,Junior Customer Success Manager,Entry,Chicago,R05,HM-065,1,35000,44000,2025-11-03,2025-12-06,Filled
+REQ-1404,D06,Customer Success Manager,Mid,New York,R08,HM-065,1,48000,62000,2025-11-06,2025-12-22,Filled
+REQ-1405,D04,Senior Account Manager,Senior,Chicago,R05,HM-043,1,97000,124000,2025-11-07,,Open
+REQ-1406,D04,Account Manager,Mid,Austin,R05,HM-041,2,75000,95000,2025-11-10,,Open
+REQ-1407,D08,Junior Talent Partner,Entry,Remote,R10,HM-084,2,51000,65000,2025-11-10,2025-12-25,Filled
+REQ-1408,D03,Product Manager,Mid,Remote,R04,HM-031,1,114000,146000,2025-11-11,2025-12-12,Filled
+REQ-1409,D06,Customer Success Manager,Mid,Remote,R05,HM-061,1,48000,62000,2025-11-11,2025-12-09,Filled
+REQ-1410,D09,Project Coordinator,Mid,Remote,R09,HM-091,3,66000,84000,2025-11-11,,Open
+REQ-1411,D09,Junior Procurement Specialist,Entry,Chicago,R09,HM-091,1,48000,60000,2025-11-12,2025-12-21,Filled
+REQ-1412,D04,Junior Account Manager,Entry,Remote,R07,HM-045,1,54000,69000,2025-11-13,2025-12-19,Filled
+REQ-1413,D02,Junior BI Developer,Entry,Remote,R04,HM-021,2,76000,97000,2025-11-13,,Open
+REQ-1414,D05,Marketing Specialist,Mid,New York,R06,HM-055,1,79000,101000,2025-11-18,2025-12-25,Filled
+REQ-1415,D06,Customer Success Manager,Mid,Remote,R08,HM-062,1,48000,62000,2025-11-19,,Open
+REQ-1416,D04,Account Executive,Mid,Chicago,R07,HM-044,2,75000,95000,2025-11-24,,Open
+REQ-1417,D03,Product Designer,Mid,New York,R02,HM-031,2,114000,146000,2025-11-26,,Open
+REQ-1418,D04,Senior Account Manager,Senior,New York,R07,HM-045,1,97000,124000,2025-11-26,,Open
+REQ-1419,D01,Junior DevOps Engineer,Entry,Chicago,R02,HM-012,1,86000,109000,2025-12-03,,Open
+REQ-1420,D02,Senior Data Scientist,Senior,Remote,R01,HM-022,1,137000,175000,2025-12-05,,Open

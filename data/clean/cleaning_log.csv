@@ -1,0 +1,19 @@
+table,step,rows_affected,detail
+departments,Loaded,9,raw rows
+recruiters,Loaded,10,raw rows
+requisitions,Loaded,420,raw rows
+candidates,Loaded,33292,raw rows
+applications,Loaded,34950,raw rows
+stage_events,Loaded,52278,raw rows
+offers,Loaded,567,raw rows
+hires,Loaded,382,raw rows
+source_spend,Loaded,165,raw rows
+candidates,Converted salary text,666,'$95k' -> 95000
+candidates,Filled missing gender,333,blank -> 'Not recorded' (kept separate from 'Prefer not to say')
+applications,Removed duplicate rows,277,exact duplicate application records
+applications,Standardised source names,1648,"e.g. 'linkedin', 'Linked In' -> 'LinkedIn'"
+applications,Filled missing source,139,blank -> 'Unknown'
+applications,Fixed date format,1040,MM/DD/YYYY text converted to a real date
+stage_events,Removed duplicate rows,150,exact duplicate stage records
+stage_events,Fixed swapped dates,77,exit date before entry date -> swapped back
+applications,Final clean rows,34673,382 hires
