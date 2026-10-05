@@ -1,0 +1,5 @@
+location,requisitions,avg_applications_per_req,avg_time_to_fill,fill_rate_pct
+Remote,135,114.0,41.2,84.5
+New York,125,69.0,44.0,69.5
+Austin,72,68.0,45.3,66.2
+Chicago,88,66.0,46.9,70.0

@@ -1,0 +1,6 @@
+stage_order,stage,entered,passed_or_accepted,rejected,withdrew,declined_offer,pass_rate_pct,withdrawal_rate_pct
+1,Resume Screen,34673,9129,25396,117,0,26.3,0.3
+2,Phone Screen,9129,5249,3323,528,0,57.5,5.8
+3,Skills Assessment,5249,2507,2185,545,0,47.8,10.4
+4,Onsite Interview,2507,570,1540,378,0,22.7,15.1
+5,Offer,570,382,0,0,184,67.0,0.0

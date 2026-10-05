@@ -1,0 +1,10 @@
+department_name,requisitions,filled,cancelled_unfilled,still_open,fill_rate_pct,avg_time_to_fill,avg_applications_per_req
+Engineering,99,59,35,5,62.8,53.4,84.0
+Operations,29,18,9,2,66.7,44.5,67.0
+Sales,87,53,26,8,67.1,36.7,69.0
+Data & Analytics,40,27,10,3,73.0,46.8,83.0
+Product,25,16,5,4,76.2,41.8,89.0
+Marketing,31,24,7,0,77.4,43.1,89.0
+Finance,23,18,5,0,78.3,45.4,84.0
+Customer Support,66,58,5,3,92.1,38.2,100.0
+Human Resources,20,19,1,0,95.0,45.3,81.0

@@ -1,0 +1,5 @@
+days_in_process_band,stage_records,withdrew,withdrawal_rate_pct
+1. 0-6 days,9600,536,5.6
+2. 7-13 days,4740,498,10.5
+3. 14-20 days,1861,286,15.4
+4. 21+ days,684,131,19.2

@@ -1,0 +1,5 @@
+job_level,requisitions,avg_applications_per_req,avg_time_to_fill,fill_rate_pct
+Entry,102,114.0,40.6,76.5
+Mid,160,85.0,42.6,70.7
+Senior,107,68.0,47.9,81.0
+Lead,51,42.0,44.2,63.8

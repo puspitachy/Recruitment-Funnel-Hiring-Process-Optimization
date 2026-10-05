@@ -1,0 +1,9 @@
+factor,band,offers,acceptance_pct
+Days from application to decision,1. < 30 days,182,75.8
+Days from application to decision,2. 30-39 days,207,70.5
+Days from application to decision,3. 40-49 days,113,61.9
+Days from application to decision,4. 50+ days,64,43.8
+Salary vs expectation,1. >10% below expected,175,50.9
+Salary vs expectation,2. 5-10% below,89,71.9
+Salary vs expectation,3. 0-5% below,85,74.1
+Salary vs expectation,4. At or above expected,217,76.5

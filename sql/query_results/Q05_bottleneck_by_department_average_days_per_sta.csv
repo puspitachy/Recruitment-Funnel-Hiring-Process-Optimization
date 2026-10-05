@@ -1,0 +1,10 @@
+department_name,hires,resume_screen,phone_screen,assessment,onsite_interview,offer,avg_time_to_hire
+Engineering,73,3.0,5.5,6.1,16.0,8.4,39.0
+Data & Analytics,37,2.8,4.1,6.3,14.0,8.8,36.1
+Marketing,26,3.3,5.1,6.2,11.1,9.5,35.1
+Operations,33,3.1,5.2,6.3,9.2,9.8,33.5
+Human Resources,26,3.5,4.7,5.7,9.5,10.0,33.4
+Product,18,3.2,5.4,4.8,9.3,9.4,32.1
+Customer Support,74,3.0,4.4,6.1,9.3,8.7,31.6
+Sales,74,3.2,5.1,5.7,9.1,8.3,31.4
+Finance,21,2.9,5.0,6.3,9.1,7.9,31.2
